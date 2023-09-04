@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shahaayush458@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aayush-shah-422aaa28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-shah-422aaa28a" height="30" width="40" /></a>
 </p>
